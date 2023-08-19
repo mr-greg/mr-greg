@@ -44,12 +44,5 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-greg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="margin-right: 10px;" />
+  <img align="center" height="225" src="https://media.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif" />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://media.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif" />
-
-###
