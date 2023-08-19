@@ -50,6 +50,6 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/mr-greg/mr-greg/output/snake.svg)
+<img src="https://media.tenor.com/hmDMrE1yMAkAAAAC/when-the-coding-when-the.gif" />
 
 ###
