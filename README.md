@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Grégory and I'm from France 🇫🇷</h2>
+<h2 align="left">Hi 👋! My name is Grégory and I'm from France :fr:</h2>
 
 ###
 
